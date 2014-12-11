@@ -1,0 +1,13 @@
+{
+	"name": "jaguar",
+	"description": "Jaguar",
+	"version": "1.0.0",
+	"author": "Shawn Jonnet",
+	"dependencies": {
+		"jade": "1.x.x",
+		"serve": "1.x.x"
+	},
+	"engines": {
+		"node": ">= 0.6.0"
+	}
+}
